@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/2._Variables_y_operadores.iml" filepath="$PROJECT_DIR$/.idea/modules/2._Variables_y_operadores.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Variables, tipos, valores en Java/Ejercicios básicos/2._Variables_y_operadores.Variables,_tipos,_valores_en_Java-Ejercicios_básicos.iml" filepath="$PROJECT_DIR$/.idea/modules/Variables, tipos, valores en Java/Ejercicios básicos/2._Variables_y_operadores.Variables,_tipos,_valores_en_Java-Ejercicios_básicos.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Variables, tipos, valores en Java/Ejercicios básicos/2._Variables_y_operadores.Variables,_tipos,_valores_en_Java-Ejercicios_básicos.main.iml" filepath="$PROJECT_DIR$/.idea/modules/Variables, tipos, valores en Java/Ejercicios básicos/2._Variables_y_operadores.Variables,_tipos,_valores_en_Java-Ejercicios_básicos.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Variables, tipos, valores en Java/Ejercicios básicos/2._Variables_y_operadores.Variables,_tipos,_valores_en_Java-Ejercicios_básicos.test.iml" filepath="$PROJECT_DIR$/.idea/modules/Variables, tipos, valores en Java/Ejercicios básicos/2._Variables_y_operadores.Variables,_tipos,_valores_en_Java-Ejercicios_básicos.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Variables, tipos, valores en Java/Introducción al lenguaje Java/2._Variables_y_operadores.Variables,_tipos,_valores_en_Java-Introducción_al_lenguaje_Java.iml" filepath="$PROJECT_DIR$/.idea/modules/Variables, tipos, valores en Java/Introducción al lenguaje Java/2._Variables_y_operadores.Variables,_tipos,_valores_en_Java-Introducción_al_lenguaje_Java.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Variables, tipos, valores en Java/Introducción al lenguaje Java/2._Variables_y_operadores.Variables,_tipos,_valores_en_Java-Introducción_al_lenguaje_Java.main.iml" filepath="$PROJECT_DIR$/.idea/modules/Variables, tipos, valores en Java/Introducción al lenguaje Java/2._Variables_y_operadores.Variables,_tipos,_valores_en_Java-Introducción_al_lenguaje_Java.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Variables, tipos, valores en Java/Introducción al lenguaje Java/2._Variables_y_operadores.Variables,_tipos,_valores_en_Java-Introducción_al_lenguaje_Java.test.iml" filepath="$PROJECT_DIR$/.idea/modules/Variables, tipos, valores en Java/Introducción al lenguaje Java/2._Variables_y_operadores.Variables,_tipos,_valores_en_Java-Introducción_al_lenguaje_Java.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/util/2._Variables_y_operadores.util.iml" filepath="$PROJECT_DIR$/.idea/modules/util/2._Variables_y_operadores.util.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/util/2._Variables_y_operadores.util.main.iml" filepath="$PROJECT_DIR$/.idea/modules/util/2._Variables_y_operadores.util.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/util/2._Variables_y_operadores.util.test.iml" filepath="$PROJECT_DIR$/.idea/modules/util/2._Variables_y_operadores.util.test.iml" />
+    </modules>
+  </component>
+</project>
