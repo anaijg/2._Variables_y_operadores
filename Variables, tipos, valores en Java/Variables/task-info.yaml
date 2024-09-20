@@ -4,3 +4,5 @@ files:
     visible: true
   - name: img_2.png
     visible: true
+  - name: ejercicios.md
+    visible: true
