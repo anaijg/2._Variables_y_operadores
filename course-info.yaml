@@ -6,3 +6,5 @@ summary: "Se corresponde con el tema del aula virtual: \n2 - Tipos de datos. Man
 programming_language: Java
 content:
   - "Variables, tipos, valores en Java"
+  - Las clases Math y Random
+  - Ejercicios

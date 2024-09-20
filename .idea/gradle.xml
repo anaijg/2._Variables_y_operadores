@@ -11,8 +11,13 @@
         <option name="modules">
           <set>
             <option value="$PROJECT_DIR$" />
-            <option value="$PROJECT_DIR$/Variables, tipos, valores en Java/Ejercicios básicos" />
+            <option value="$PROJECT_DIR$/Ejercicios/Ejercicios codeandcoke" />
+            <option value="$PROJECT_DIR$/Las clases Math y Random/Clase Math" />
+            <option value="$PROJECT_DIR$/Las clases Math y Random/Clase Random" />
+            <option value="$PROJECT_DIR$/Variables, tipos, valores en Java/Constantes" />
+            <option value="$PROJECT_DIR$/Variables, tipos, valores en Java/Ejercicios básicos1" />
             <option value="$PROJECT_DIR$/Variables, tipos, valores en Java/Introducción al lenguaje Java" />
+            <option value="$PROJECT_DIR$/Variables, tipos, valores en Java/Variables" />
             <option value="$PROJECT_DIR$/util" />
           </set>
         </option>
