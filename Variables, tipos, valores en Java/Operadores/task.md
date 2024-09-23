@@ -61,7 +61,7 @@ int suma = a + b; // suma = 8
 int valor = 3 - 6; // valor = -3
 ```
 
-- Operador producto <code>*<code>: Permite multiplicar dos expresiones
+- Operador producto <code>*</code>: Permite multiplicar dos expresiones
 
 ```java
 float peso = miPeso * 10f;
