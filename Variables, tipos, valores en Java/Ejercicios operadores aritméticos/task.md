@@ -104,7 +104,6 @@ Ejemplo: 232 euros son 1 billete de 200, 1 billete de 20, un billete de 10, y un
 39. Un vendedor recibe un sueldo base mas un 10% de comisión por comisión sobre el total de las ventas que realice. El vendedor realiza tres ventas este mes y quiere saber cuánto dinero obtendrá por concepto de comisiones y el total que cobrará. Todos los datos que se desconocen se piden por teclado.
 
 40. Un alumno desea saber cual será su nota final en un módulo. Dicha calificación se compone de los siguientes porcentajes:
-
-  1. El 55% se obtiene del promedio de la nota de las tres evaluaciones..
-  2. El 30% se obtiene de la nota en un examen final.
-  3. El 15% se obtiene de de la calificación de un trabajo final.		
+- El 55% se obtiene del promedio de la nota de las tres evaluaciones..
+- El 30% se obtiene de la nota en un examen final.
+- El 15% se obtiene de de la calificación de un trabajo final.		
