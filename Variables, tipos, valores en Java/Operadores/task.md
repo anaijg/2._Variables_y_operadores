@@ -245,6 +245,7 @@ Por ejemplo:
 boolean b = true && !false; // true, porque !false se evalúa primero 
 ````
 Podemos cambiar este orden de ejecución cuando queramos utilizando paréntesis (lo que está dentro de paréntesis se ejecuta antes).
+
 ![img.png](img.png)
 
 ## Unir operaciones relacionales usando operadores lógicos 
