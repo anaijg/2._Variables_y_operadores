@@ -46,21 +46,19 @@ Ejemplo: 232 euros son 1 billete de 200, 1 billete de 20, un billete de 10, y un
 
 ## **EJERCICIOS EN LOS QUE SE CALCULAN PORCENTAJES**
 
-18. Realiza un programa que pida un número y un porcentaje, y
+18. Realiza un programa que pida un número y un porcentaje, y 
+        a) Calcule y muestre ese número incrementado en ese porcentaje.
+        b) Calcule y muestre ese número decrementado en ese porcentaje.
 
-19. Calcule y muestre ese número incrementado en ese porcentaje.
+    Por ejemplo: si se introduce 10 y 20, el resultado es 12 y 8.
 
-20. Calcule y muestre ese número decrementado en ese porcentaje.
+19. Realiza un programa que pida el precio de venta de un producto, la cantidad de productos comprados y el porcentaje de IVA aplicado. El programa mostrará el importe total a abonar.
 
-    Por ejemplo: si se introduce 10 y 20, el resultado es 12 y 8\.
+20. Haz el ejercicio anterior aplicando, además, un descuento del 15% sobre el total de la compra.
 
-21. Realiza un programa que pida el precio de venta de un producto, la cantidad de productos comprados y el porcentaje de IVA aplicado. El programa mostrará el importe total a abonar.
+21. Un vendedor recibe un sueldo base más un 10% de comisión por comisión sobre el total de las ventas que realice. El vendedor realiza tres ventas este mes y quiere saber cuánto dinero obtendrá por concepto de comisiones y el total que cobrará. Todos los datos que se desconocen se piden por teclado.
 
-22. Haz el ejercicio anterior aplicando, además, un descuento del 15% sobre el total de la compra.
-
-23. Un vendedor recibe un sueldo base mas un 10% de comisión por comisión sobre el total de las ventas que realice. El vendedor realiza tres ventas este mes y quiere saber cuánto dinero obtendrá por concepto de comisiones y el total que cobrará. Todos los datos que se desconocen se piden por teclado.
-
-24. Un alumno desea saber cual será su nota final en un módulo. Dicha calificación se compone de los siguientes porcentajes:
+22. Un alumno desea saber cual será su nota final en un módulo. Dicha calificación se compone de los siguientes porcentajes:
 - El 55% se obtiene del promedio de la nota de las tres evaluaciones..
 - El 30% se obtiene de la nota en un examen final.
 - El 15% se obtiene de de la calificación de un trabajo final.		
